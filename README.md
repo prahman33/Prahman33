@@ -94,9 +94,6 @@ I am seeking admission to a Master's program in **Bioinformatics / Computational
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prahman33\&show_icons=true\&theme=default)
 
 ---
 
