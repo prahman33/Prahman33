@@ -67,22 +67,10 @@ My main interests include:
 
 ---
 
-## 🌍 Languages
-
-* Bengali (Native)
-* English (C2 – Fluent)
-* Hindi (B1)
-* Italian (A2–B1)
 
 ---
 
-## 📈 Goals
 
-I am seeking admission to a Master's program in **Bioinformatics / Computational Biology / Data Science**, where I can:
-
-* Develop expertise in **genomic data analysis and machine learning**
-* Contribute to **cancer research and precision medicine**
-* Engage in interdisciplinary scientific research
 
 ---
 
