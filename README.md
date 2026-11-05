@@ -76,7 +76,7 @@ My main interests include:
 
 ## 📫 Contact
 
-* 📧 Email: [priankarahman35@gmail.com](mailto:priankarahman35@gmail.com)
+
 * 💻 GitHub: https://github.com/prahman33
 * 🧠 HackerRank: https://www.hackerrank.com/prianka_1929259
 
