@@ -1,7 +1,7 @@
 # Hi, I'm Mahbuba Rahman Prianka 👋
 
 🎓 Bioinformatics Graduate | Sapienza University of Rome
-🧬 Aspiring Master's Student in Bioinformatics & Data Science
+
 📍 Rome, Italy
 
 ---
